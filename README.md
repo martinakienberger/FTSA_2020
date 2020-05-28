@@ -20,7 +20,7 @@ FTSA_2020
 
 ### Data
 
-Data access can be done via [University of Vienna thesis repository](https://bibliothek.univie.ac.at/en/e-theses.html)
+Data access can be done via [University of Vienna thesis repository](https://bibliothek.univie.ac.at/en/e-theses.html) once the Thesis dissertation (Kienberger, 2020) is published.
 
 ### Contributors:
 
